@@ -1,0 +1,11 @@
+C:\Users\26alm\source\repos\RailPatternsWacuumCleaner\RailPatternsWacuumCleaner\bin\Debug\netcoreapp3.0\RailPatternsWacuumCleaner.exe
+C:\Users\26alm\source\repos\RailPatternsWacuumCleaner\RailPatternsWacuumCleaner\bin\Debug\netcoreapp3.0\RailPatternsWacuumCleaner.deps.json
+C:\Users\26alm\source\repos\RailPatternsWacuumCleaner\RailPatternsWacuumCleaner\bin\Debug\netcoreapp3.0\RailPatternsWacuumCleaner.runtimeconfig.json
+C:\Users\26alm\source\repos\RailPatternsWacuumCleaner\RailPatternsWacuumCleaner\bin\Debug\netcoreapp3.0\RailPatternsWacuumCleaner.runtimeconfig.dev.json
+C:\Users\26alm\source\repos\RailPatternsWacuumCleaner\RailPatternsWacuumCleaner\bin\Debug\netcoreapp3.0\RailPatternsWacuumCleaner.dll
+C:\Users\26alm\source\repos\RailPatternsWacuumCleaner\RailPatternsWacuumCleaner\bin\Debug\netcoreapp3.0\RailPatternsWacuumCleaner.pdb
+C:\Users\26alm\source\repos\RailPatternsWacuumCleaner\RailPatternsWacuumCleaner\obj\Debug\netcoreapp3.0\RailPatternsWacuumCleaner.csprojAssemblyReference.cache
+C:\Users\26alm\source\repos\RailPatternsWacuumCleaner\RailPatternsWacuumCleaner\obj\Debug\netcoreapp3.0\RailPatternsWacuumCleaner.AssemblyInfoInputs.cache
+C:\Users\26alm\source\repos\RailPatternsWacuumCleaner\RailPatternsWacuumCleaner\obj\Debug\netcoreapp3.0\RailPatternsWacuumCleaner.AssemblyInfo.cs
+C:\Users\26alm\source\repos\RailPatternsWacuumCleaner\RailPatternsWacuumCleaner\obj\Debug\netcoreapp3.0\RailPatternsWacuumCleaner.dll
+C:\Users\26alm\source\repos\RailPatternsWacuumCleaner\RailPatternsWacuumCleaner\obj\Debug\netcoreapp3.0\RailPatternsWacuumCleaner.pdb
